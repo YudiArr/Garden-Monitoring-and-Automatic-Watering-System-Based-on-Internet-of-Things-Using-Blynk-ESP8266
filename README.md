@@ -3,3 +3,5 @@ The hardware design features an Arduino Nano and Wemos D1 Mini, utilizing DHT22 
 
 - Data Visualization Monitoring
 - Internet Of Things
+
+https://www.youtube.com/watch?v=eBUXGqSBA9o&t=60s
